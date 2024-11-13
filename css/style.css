@@ -1,4 +1,29 @@
 * {
   margin: 0px;
   padding: 0px;
+  border: red solid 1px;
+}
+
+#header {
+  background-color: bisque;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: "Hubballi", cursive;
+}
+
+#nametitle {
+  background-color: aliceblue;
+  width: 400px;
+  margin: 0px auto;
+  text-align: center;
+}
+#nametitle h1,
+h2 {
+  margin: 0px;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
 }

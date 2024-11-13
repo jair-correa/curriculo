@@ -1,5 +1,22 @@
 # Boot.dev's Backend Developer Learning Path
 
+meu-curriculo/
+├── README.md
+├── index.html
+├── style.css
+├── scripts.js
+├── projetos/
+│   ├── projeto1/
+│   │   ├── README.md
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── scripts.js
+│   └── projeto2/
+│       ├── ...
+├── portfolio.pdf
+├── certificados/
+└── contatos.html
+
 <p align="center">
   <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" />
 </p>
